@@ -2,7 +2,7 @@
   "name": "CD Performance Tracker",
   "short_name": "CD Stats",
   "description": "Year-over-year CD performance tracker",
-  "start_url": "/cd-performance-tracker.html",
+  "start_url": "./cd-performance-tracker.html",
   "display": "standalone",
   "background_color": "#2563eb",
   "theme_color": "#2563eb",
