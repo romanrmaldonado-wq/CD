@@ -1,7 +1,7 @@
 const CACHE_NAME = 'cd-stats-v1';
 const urlsToCache = [
-  '/cd-performance-tracker.html',
-  '/manifest.json'
+  './cd-performance-tracker.html',
+  './manifest.json'
 ];
 
 self.addEventListener('install', event => {
